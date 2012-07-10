@@ -1,0 +1,1216 @@
+
+/* line 98, ../../app/assets/stylesheets/generic.sass */
+a.scrollup_button {
+  position: absolute;
+  bottom: 20px;
+  right: 0px;
+}
+
+/* line 103, ../../app/assets/stylesheets/generic.sass */
+a.scrollup_button {
+  background-image: url(images/button_mobile_scrollup.png);
+}
+
+/* line 106, ../../app/assets/stylesheets/generic.sass */
+a.items_notifications_button {
+  background-color: #c4d2d7;
+  background-image: url(images/button_mobile_items_notifications.png);
+}
+
+/* line 110, ../../app/assets/stylesheets/generic.sass */
+a.cancel_button {
+  background-image: url(images/button_mobile_cancel.png);
+}
+
+/* line 113, ../../app/assets/stylesheets/generic.sass */
+a.edit_button {
+  background-image: url(images/button_mobile_edit.png);
+}
+
+/* line 116, ../../app/assets/stylesheets/generic.sass */
+a.order_button {
+  background-image: url(images/button_mobile_gear.png);
+}
+
+/* line 119, ../../app/assets/stylesheets/generic.sass */
+a.tables_button {
+  background-image: url(images/button_mobile_tables.png);
+}
+
+/* line 122, ../../app/assets/stylesheets/generic.sass */
+a.tables2_button {
+  background-image: url(images/button_mobile_tables2.png);
+}
+
+/* line 125, ../../app/assets/stylesheets/generic.sass */
+a.kitchenlist_button {
+  background-image: url(images/button_mobile_kitchenlist.png);
+}
+
+/* line 128, ../../app/assets/stylesheets/generic.sass */
+a.invoice_button {
+  background-image: url(images/button_mobile_invoice.png);
+}
+
+/* line 131, ../../app/assets/stylesheets/generic.sass */
+a.splitinvoice_button {
+  background-image: url(images/button_mobile_splitinvoice.png);
+}
+
+/* line 134, ../../app/assets/stylesheets/generic.sass */
+a.splitinvoice_button {
+  background-image: url(images/button_mobile_splitinvoice.png);
+}
+
+/* line 137, ../../app/assets/stylesheets/generic.sass */
+a.storno_button {
+  background-image: url(images/button_mobile_storno.png);
+  margin-top: 50px;
+}
+
+/* line 141, ../../app/assets/stylesheets/generic.sass */
+a.refund_button {
+  background-image: url(images/button_mobile_storno.png);
+}
+
+/* line 144, ../../app/assets/stylesheets/generic.sass */
+a.print2_button {
+  background-image: url(images/button_mobile_print2.png);
+}
+
+/* line 147, ../../app/assets/stylesheets/generic.sass */
+a.reload_button {
+  background-image: url(images/button_mobile_reload.png);
+}
+
+/* line 150, ../../app/assets/stylesheets/generic.sass */
+a.print1_button {
+  background-image: url(images/button_mobile_print1.png);
+}
+
+/* line 153, ../../app/assets/stylesheets/generic.sass */
+a.print3_button {
+  background-image: url(images/button_mobile_print3.png);
+}
+
+/* line 156, ../../app/assets/stylesheets/generic.sass */
+a.printinvoice1_button {
+  background-image: url(images/button_mobile_printinvoice1.png);
+}
+
+/* line 159, ../../app/assets/stylesheets/generic.sass */
+a.printinvoice2_button {
+  background-image: url(images/button_mobile_printinvoice2.png);
+}
+
+/* line 162, ../../app/assets/stylesheets/generic.sass */
+a.printinvoice3_button {
+  background-image: url(images/button_mobile_printinvoice3.png);
+}
+
+/* line 165, ../../app/assets/stylesheets/generic.sass */
+a.print_kitchen_button {
+  background-image: url(images/button_mobile_printkitchen.png);
+}
+
+/* line 168, ../../app/assets/stylesheets/generic.sass */
+a.print_bar_button {
+  background-image: url(images/button_mobile_printbar.png);
+}
+
+/* line 171, ../../app/assets/stylesheets/generic.sass */
+a.print_guestroom_button {
+  background-image: url(images/button_mobile_printguestroom.png);
+}
+
+/* line 174, ../../app/assets/stylesheets/generic.sass */
+a.previous_button {
+  background-image: url(images/button_mobile_previous.png);
+}
+
+/* line 177, ../../app/assets/stylesheets/generic.sass */
+a.next_button {
+  background-image: url(images/button_mobile_next.png);
+}
+
+/* line 180, ../../app/assets/stylesheets/generic.sass */
+a.area1_button {
+  background-image: url(images/button_mobile_room1.png);
+}
+
+/* line 183, ../../app/assets/stylesheets/generic.sass */
+a.area2_button {
+  background-image: url(images/button_mobile_room2.png);
+}
+
+/* line 186, ../../app/assets/stylesheets/generic.sass */
+a.area3_button {
+  background-image: url(images/button_mobile_room3.png);
+}
+
+/* line 189, ../../app/assets/stylesheets/generic.sass */
+a.area4_button {
+  background-image: url(images/button_mobile_room4.png);
+}
+
+/* line 192, ../../app/assets/stylesheets/generic.sass */
+a.cash_button {
+  background-image: url(images/button_mobile_cash.png);
+}
+
+/* line 195, ../../app/assets/stylesheets/generic.sass */
+a.finish_button {
+  background-image: url(images/button_mobile_finish.png);
+}
+
+/* line 198, ../../app/assets/stylesheets/generic.sass */
+a.move-to-table_button {
+  background-image: url(images/button_mobile_move-to-table.png);
+}
+
+/* line 202, ../../app/assets/stylesheets/generic.sass */
+div#functions input {
+  width: 50px;
+  height: 54px;
+  background: none;
+  background-repeat: no-repeat;
+  border: none;
+  color: none;
+  background-image: url(images/button_mobile_logout.png);
+  margin: 0px 4px 0px 0px;
+  cursor: pointer;
+  display: inline-block;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+/* line 216, ../../app/assets/stylesheets/generic.sass */
+div.invoice {
+  background-color: white;
+  width: 320px;
+  font-family: Monospace;
+  font-size: 150%;
+  color: #333333;
+  padding: 30px 10px;
+  margin: 10px;
+  letter-spacing: -1.5px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-box-shadow: 0px 0px 10px black;
+}
+/* line 228, ../../app/assets/stylesheets/generic.sass */
+div.invoice div.add_payment_method,
+div.invoice span.payment_method {
+  cursor: pointer;
+}
+/* line 231, ../../app/assets/stylesheets/generic.sass */
+div.invoice input {
+  border: none;
+  background-color: #ddddee;
+  text-align: right;
+}
+/* line 235, ../../app/assets/stylesheets/generic.sass */
+div.invoice select#cost_center_and_tax_for_invoice,
+div.invoice select#order_id {
+  position: relative;
+  width: 118px;
+  height: 51px;
+  font-size: 140%;
+  margin-right: 8px;
+  top: -17px;
+  left: 5px;
+}
+/* line 244, ../../app/assets/stylesheets/generic.sass */
+div.invoice table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+/* line 247, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td {
+  vertical-align: middle;
+}
+/* line 249, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.label {
+  width: 131px;
+}
+/* line 252, ../../app/assets/stylesheets/generic.sass */
+div.invoice table tr.item a {
+  color: #333333;
+  text-decoration: none;
+  display: block;
+}
+/* line 256, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.price {
+  width: 70px;
+  text-align: right;
+}
+/* line 259, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.total {
+  width: 70px;
+  text-align: right;
+}
+/* line 262, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.count {
+  text-align: center;
+  height: 30px;
+  width: 40px;
+}
+/* line 266, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.count a {
+  display: block;
+  height: 25px;
+  color: #333333;
+  padding-top: 5px;
+  text-decoration: none;
+}
+/* line 273, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.grey a {
+  background-color: lightgrey;
+}
+/* line 275, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.label {
+  text-align: left;
+  height: 30px;
+  width: 180px;
+}
+/* line 279, ../../app/assets/stylesheets/generic.sass */
+div.invoice table td.label a {
+  display: block;
+  padding: 10px 0px;
+  color: #333333;
+  text-decoration: none;
+}
+
+/* line 286, ../../app/assets/stylesheets/generic.sass */
+div.handle_for_table {
+  width: 100%;
+  height: 100%;
+  font-size: 200%;
+  text-align: center;
+  background-color: #777777;
+}
+
+/* line 293, ../../app/assets/stylesheets/generic.sass */
+div.table a {
+  font-size: 200%;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 300, ../../app/assets/stylesheets/generic.sass */
+select.target_table {
+  font-size: 160%;
+  margin-left: 6px;
+  width: 48px;
+}
+
+/* line 305, ../../app/assets/stylesheets/generic.sass */
+#functions_footer {
+  margin-top: 20px;
+}
+
+/* line 308, ../../app/assets/stylesheets/generic.sass */
+span.subtotal {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+/* line 312, ../../app/assets/stylesheets/generic.sass */
+div#orderform {
+  font-size: 110%;
+}
+
+/* line 315, ../../app/assets/stylesheets/generic.sass */
+span.link {
+  text-decoration: underline;
+  color: white;
+  cursor: pointer;
+}
+
+/* line 319, ../../app/assets/stylesheets/generic.sass */
+span.order-customer {
+  margin: 5px;
+  padding: 4px;
+  font-weight: bolder;
+}
+
+/* line 325, ../../app/assets/stylesheets/generic.sass */
+table#itemstable td#inputfields {
+  display: none;
+}
+
+/* line 328, ../../app/assets/stylesheets/generic.sass */
+div#note_for_order {
+  display: none;
+}
+
+/* line 331, ../../app/assets/stylesheets/generic.sass */
+form table td {
+  vertical-align: top;
+}
+
+/* line 334, ../../app/assets/stylesheets/generic.sass */
+tr.item td.warning {
+  background-color: #74101b;
+}
+
+/* line 337, ../../app/assets/stylesheets/generic.sass */
+tr.item td.updated {
+  background-color: #5b7682;
+}
+
+/* line 340, ../../app/assets/stylesheets/generic.sass */
+div#draw_controls {
+  display: none;
+  text-align: center;
+}
+/* line 343, ../../app/assets/stylesheets/generic.sass */
+div#draw_controls span#submit_drawing {
+  display: inline-block;
+  background-color: #5b7682;
+  padding: 10px;
+}
+
+/* line 348, ../../app/assets/stylesheets/generic.sass */
+canvas {
+  background-color: white;
+}
+
+/* line 351, ../../app/assets/stylesheets/generic.sass */
+span.payment_method {
+  padding: 5px 10px;
+  display: inline-block;
+}
+
+/* line 356, ../../app/assets/stylesheets/generic.sass */
+div.payment_method_row input {
+  width: 60px;
+  font-size: 130%;
+}
+/* line 359, ../../app/assets/stylesheets/generic.sass */
+div.payment_method_row div.delete {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+/* line 363, ../../app/assets/stylesheets/generic.sass */
+span.payment_method.selected {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 2px;
+}
+
+/* line 367, ../../app/assets/stylesheets/generic.sass */
+div#invoices span.payment_method.selected {
+  border: 2px solid black;
+  background-color: #ddddee;
+}
+
+/* line 371, ../../app/assets/stylesheets/generic.sass */
+div.booking_form span.payment_method.selected {
+  background-color: #3a474d;
+}
+
+/* line 374, ../../app/assets/stylesheets/generic.sass */
+input#customer_search_input {
+  width: 100%;
+}
+
+/* line 377, ../../app/assets/stylesheets/generic.sass */
+span.textbutton {
+  display: inline-block;
+  border-top: 2px solid #555555;
+  border-left: 2px solid #555555;
+  border-right: 2px solid #222222;
+  border-bottom: 2px solid #222222;
+  background-color: #3a474d;
+  cursor: pointer;
+}
+
+/* line 387, ../../app/assets/stylesheets/generic.sass */
+div.booking_form span.textbutton#booking_pay {
+  background-color: #cd0052;
+}
+/* line 389, ../../app/assets/stylesheets/generic.sass */
+div.booking_form span.textbutton#booking_cancel {
+  background-color: #27343b;
+}
+/* line 391, ../../app/assets/stylesheets/generic.sass */
+div.booking_form span.textbutton#booking_submit {
+  background-color: #75b10d;
+  color: white;
+}
+/* line 394, ../../app/assets/stylesheets/generic.sass */
+div.booking_form span.textbutton#add_payment_method_button {
+  background-color: #136880;
+}
+/* line 397, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.guest_type,
+div.booking_form div.season {
+  border-top: 2px solid #555555;
+  border-left: 2px solid #555555;
+  border-right: 2px solid #222222;
+  border-bottom: 2px solid #222222;
+}
+/* line 404, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.guest_type {
+  background-color: #5b7682;
+}
+/* line 407, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.season,
+div.booking_form div#choose_room_container {
+  background-color: #243239;
+}
+/* line 411, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.surcharge_col.booking_item_total {
+  font-weight: bold !important;
+}
+/* line 414, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.surcharge_col.booking_item_delete {
+  background-image: url(images/button_small_delete.png);
+  width: 23px;
+  cursor: pointer;
+}
+/* line 419, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div#booking_total {
+  font-size: 150%;
+}
+/* line 422, ../../app/assets/stylesheets/generic.sass */
+div.booking_form div.booking_change {
+  font-size: 150%;
+  float: right;
+}
+
+/* line 428, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div {
+  -moz-box-shadow: 0px 0px 8px white;
+  -moz-border-radius: 5px;
+  -webkit-box-shadow: 0px 0px 8px white;
+  -webkit-border-radius: 5px;
+  background-color: #5b7682;
+}
+/* line 434, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div div.ui-datepicker-header {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  padding: 10px;
+  background-color: #243239;
+  font-size: 150%;
+}
+/* line 440, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div div.ui-datepicker-header a.ui-datepicker-prev {
+  cursor: pointer;
+  padding: 10px;
+  float: left;
+}
+/* line 444, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div div.ui-datepicker-header a.ui-datepicker-next {
+  cursor: pointer;
+  padding: 10px;
+  float: right;
+}
+/* line 448, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div div.ui-datepicker-title {
+  text-align: center;
+}
+/* line 450, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div table.ui-datepicker-calendar {
+  background-color: #5b7682;
+  padding: 10px;
+}
+/* line 454, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div table.ui-datepicker-calendar td a {
+  text-decoration: none;
+  margin: 4px;
+  display: inline-block;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+}
+/* line 462, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div table.ui-datepicker-calendar td a.ui-state-hover,
+div#ui-datepicker-div table.ui-datepicker-calendar td a.ui-state-highlight {
+  background-color: #243239;
+}
+/* line 465, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div table.ui-datepicker-calendar td {
+  background-color: #7e868a;
+}
+/* line 467, ../../app/assets/stylesheets/generic.sass */
+div#ui-datepicker-div table.ui-datepicker-calendar td.ui-datepicker-unselectable {
+  background-color: transparent;
+}
+
+/* line 470, ../../app/assets/stylesheets/generic.sass */
+div.delete {
+  background-image: url(images/button_small_delete.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 476, ../../app/assets/stylesheets/generic.sass */
+div.add-button {
+  background-image: url(images/button_small_plus.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 482, ../../app/assets/stylesheets/generic.sass */
+div.minus-button {
+  background-image: url(images/button_small_minus.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 488, ../../app/assets/stylesheets/generic.sass */
+div.plus-minus-button {
+  background-image: url(images/button_small_plus_minus.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 494, ../../app/assets/stylesheets/generic.sass */
+div.finish-button {
+  background-image: url(images/button_small_finish.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 500, ../../app/assets/stylesheets/generic.sass */
+div.discounts-button {
+  background-image: url(images/button_small_discounts.png);
+  width: 32px;
+  height: 35px;
+  cursor: pointer;
+  position: absolute;
+}
+
+/* line 506, ../../app/assets/stylesheets/generic.sass */
+div.button_menu {
+  background-color: #243239;
+  border: 1px solid #7e868a;
+  border-bottom: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-top: 5px;
+  border-radius: 5px;
+  position: absolute;
+  height: 40px;
+}
+
+/* line 516, ../../app/assets/stylesheets/generic.sass */
+div.salor-dialog {
+  background-color: #243239;
+  border: 1px solid #7e868a;
+  padding: 3px;
+  padding-left: 10px;
+  padding-top: 5px;
+  border-radius: 5px;
+  position: absolute;
+}
+/* line 524, ../../app/assets/stylesheets/generic.sass */
+div.salor-dialog span.selected {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+/* line 526, ../../app/assets/stylesheets/generic.sass */
+div.button-with-margin {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+/* line 529, ../../app/assets/stylesheets/generic.sass */
+div.ok-button {
+  width: 100px;
+  height: 30px;
+  background-color: #75b10d;
+  text-align: center;
+  font-size: 180%;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-border-radius: 4px;
+}
+
+/* line 541, ../../app/assets/stylesheets/generic.sass */
+div.warning-button {
+  height: 30px;
+  background-color: #801212;
+  text-align: center;
+  font-size: 180%;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-border-radius: 4px;
+}
+
+/* line 552, ../../app/assets/stylesheets/generic.sass */
+div.happy-button {
+  height: 30px;
+  background-color: #ed8b00;
+  text-align: center;
+  font-size: 180%;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-border-radius: 4px;
+}
+
+/* line 563, ../../app/assets/stylesheets/generic.sass */
+div.royal-button {
+  height: 30px;
+  background-color: #80477d;
+  text-align: center;
+  font-size: 180%;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-border-radius: 4px;
+}
+
+/* line 574, ../../app/assets/stylesheets/generic.sass */
+div.generic-button {
+  border: 1px solid #7e868a;
+  text-align: center;
+  font-size: 170%;
+  color: white;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  -webkit-border-radius: 4px;
+}
+
+/* line 585, ../../app/assets/stylesheets/generic.sass */
+#paginator_left_tab {
+  padding: 2%;
+  padding-top: 7%;
+  position: absolute;
+  background-color: #243239;
+  border: 1px solid #7e868a;
+  padding-right: 3%;
+  border-radius: 5px;
+  border-right: none;
+  font-size: 180%;
+  cursor: pointer;
+}
+
+/* line 596, ../../app/assets/stylesheets/generic.sass */
+#paginator_right_tab {
+  padding: 2%;
+  padding-top: 7%;
+  position: absolute;
+  background-color: #243239;
+  border: 1px solid #7e868a;
+  padding-left: 3%;
+  border-radius: 5px;
+  border-left: none;
+  font-size: 180%;
+  cursor: pointer;
+}
+
+/* line 608, ../../app/assets/stylesheets/generic.sass */
+#search_results div.result {
+  display: inline-block;
+  font-size: 140%;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  padding: 2%;
+  cursor: pointer;
+}
+/* line 615, ../../app/assets/stylesheets/generic.sass */
+#search_results div.result-name {
+  background-color: #80477d;
+  -webkit-border-radius: 4px;
+  width: 60%;
+}
+
+/* line 619, ../../app/assets/stylesheets/generic.sass */
+#loader {
+  display: none;
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  z-index: 1;
+  opacity: 0.5;
+}
+
+/* line 23, ../../app/assets/stylesheets/pos.sass */
+body {
+  font-family: Ubuntu-R, Trebuchet MS;
+  color: #cccccc;
+  padding: 0px;
+  margin: 0px;
+  font-size: 85%;
+  background-color: #0e1d25;
+  background-image: url(images/body_bg.png);
+  background-repeat: repeat-x;
+}
+
+/* line 33, ../../app/assets/stylesheets/pos.sass */
+img {
+  border: none;
+}
+
+/* line 36, ../../app/assets/stylesheets/pos.sass */
+h1 {
+  margin: 0;
+}
+
+/* line 39, ../../app/assets/stylesheets/pos.sass */
+h2 {
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+/* line 43, ../../app/assets/stylesheets/pos.sass */
+h3 {
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+
+/* line 46, ../../app/assets/stylesheets/pos.sass */
+a {
+  color: white;
+}
+
+/* line 49, ../../app/assets/stylesheets/pos.sass */
+fieldset {
+  border-style: outset;
+}
+
+/* line 52, ../../app/assets/stylesheets/pos.sass */
+legend {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* line 57, ../../app/assets/stylesheets/pos.sass */
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+/* line 61, ../../app/assets/stylesheets/pos.sass */
+th {
+  text-align: left;
+}
+
+/* line 64, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox {
+  display: inline;
+  font-size: 25px;
+  line-height: 25px;
+  cursor: pointer;
+  cursor: hand;
+}
+
+/* line 71, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox .mark {
+  display: inline;
+}
+
+/* line 74, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox img {
+  vertical-align: middle;
+  width: 60px;
+  height: 25px;
+}
+
+/* line 79, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox img {
+  background: transparent url(images/checkbox.png) no-repeat;
+}
+
+/* line 82, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox img {
+  background-position: 0px 0px;
+}
+
+/* line 85, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox-checked img {
+  background-position: 0px -50px;
+}
+
+/* line 88, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox-disabled img {
+  background-position: 0px -100px;
+}
+
+/* line 91, ../../app/assets/stylesheets/pos.sass */
+.jquery-checkbox-checked .jquery-checkbox-disabled img {
+  background-position: 0px -125px;
+}
+
+/* line 93, ../../app/assets/stylesheets/pos.sass */
+div.category {
+  margin: 1px 0px 0px 1px;
+  background-color: #27343b;
+  background-repeat: no-repeat;
+  background-position: center center;
+  cursor: pointer;
+}
+
+/* line 99, ../../app/assets/stylesheets/pos.sass */
+div.category {
+  border-top: 2px solid #555555;
+  border-left: 2px solid #555555;
+  border-right: 2px solid #222222;
+  border-bottom: 2px solid #222222;
+  background-color: #3a474d;
+}
+
+/* line 105, ../../app/assets/stylesheets/pos.sass */
+div.category {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+
+/* line 112, ../../app/assets/stylesheets/pos.sass */
+div.category_label {
+  width: 65px;
+  height: 65px;
+  font-size: 9px;
+  text-transform: uppercase;
+  position: relative;
+}
+/* line 118, ../../app/assets/stylesheets/pos.sass */
+div.category_label span {
+  position: absolute;
+  top: 66px;
+  left: 2px;
+}
+
+/* line 122, ../../app/assets/stylesheets/pos.sass */
+#change_dialog_display {
+  background-color: #801212;
+  color: white;
+  padding: 5px;
+  font-size: 190%;
+  font-weight: bolder;
+  text-align: center;
+  -webkit-border-radius: 4px;
+  width: 90%;
+}
+
+/* line 132, ../../app/assets/stylesheets/pos.sass */
+div#category_popup div.category-item-button {
+  font-size: 120%;
+}
+
+/* line 134, ../../app/assets/stylesheets/pos.sass */
+#pos_container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: Ubuntu-R, Trebuchet MS;
+  color: #cccccc;
+  padding: 0px;
+  margin: 0px;
+  font-size: 85%;
+  background-color: #0e1d25;
+}
+/* line 145, ../../app/assets/stylesheets/pos.sass */
+#pos_container #item_menu {
+  position: absolute;
+  background-color: #243239;
+  color: white;
+  font-size: 150%;
+  font-weight: bolder;
+  text-align: right;
+  padding-right: 4px;
+  padding-top: 4px;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -webkit-box-shadow: 0px 7px 8px middlegray;
+  border: 1px solid #7e868a;
+  border-bottom: none;
+  cursor: pointer;
+}
+/* line 160, ../../app/assets/stylesheets/pos.sass */
+#pos_container #item_menu_options {
+  position: absolute;
+  background-color: #243239;
+  color: black;
+  font-size: 150%;
+  font-weight: bolder;
+  padding-top: 12px;
+  -webkit-border-bottom-left-radius: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  -webkit-box-shadow: 0px 7px 10px #243239;
+  border: 1px solid #7e868a;
+  cursor: pointer;
+}
+/* line 172, ../../app/assets/stylesheets/pos.sass */
+#pos_container #item_menu_options .retail-item-menu-button {
+  margin-right: 15px;
+  cursor: pointer;
+}
+/* line 175, ../../app/assets/stylesheets/pos.sass */
+#pos_container #button_container {
+  position: absolute;
+  border-top: 1px solid white;
+  padding-top: 5px;
+}
+/* line 179, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container {
+  position: absolute;
+  z-index: 5;
+}
+/* line 182, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table {
+  z-index: 6;
+}
+/* line 184, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table td.discounted {
+  background-color: #136880;
+}
+/* line 186, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table td.rebate {
+  color: #ed8b00;
+}
+/* line 188, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table td {
+  font-size: 150%;
+  font-weight: bolder;
+  text-align: right;
+  cursor: pointer;
+}
+/* line 193, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table .name {
+  width: 30%;
+  font-weight: bolder;
+  border: 1px solid #7e868a;
+  text-align: right;
+  padding-right: 5px;
+  -webkit-border-radius: 4px;
+}
+/* line 200, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table .price {
+  color: #cd0052;
+}
+/* line 202, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table .total {
+  color: red;
+  font-weight: bolder;
+  font-size: 169%;
+}
+/* line 206, ../../app/assets/stylesheets/pos.sass */
+#pos_container #articles_container #articles_container_table .quantity {
+  color: white;
+  padding: 1.5%;
+  background-color: #5b7682;
+  text-align: center;
+  -webkit-border-radius: 4px;
+}
+/* line 213, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel {
+  position: absolute;
+  cursor: pointer;
+}
+/* line 216, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #denomination_container {
+  text-align: center;
+}
+/* line 218, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #denomination_container .retail-denomination-button {
+  width: 40%;
+  border: 1px solid #7e868a;
+  text-align: center;
+  font-size: 170%;
+  color: white;
+  padding: 3%;
+  padding-top: 6%;
+  padding-bottom: 6%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  -webkit-border-radius: 4px;
+  display: inline-block;
+}
+/* line 231, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #denomination_container .retail-denomination-button-text {
+  background-color: #136880;
+  color: white;
+}
+/* line 234, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #denomination_container .retail-denomination-button-check {
+  background-color: white;
+  color: black;
+}
+/* line 237, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #denomination_container .retail-denomination-button-card {
+  background-color: #d9d43d;
+  color: black;
+}
+/* line 240, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #complete_button {
+  width: 95%;
+  background-color: #75b10d;
+  text-align: center;
+  font-size: 180%;
+  color: white;
+  -webkit-border-radius: 4px;
+}
+/* line 247, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #order_total {
+  background-color: #80477d;
+  border: 3px solid #773973;
+  border-bottom: none;
+  color: white;
+  padding: 5px;
+  height: 45px;
+  font-size: 180%;
+  text-align: center;
+  -webkit-border-radius: 4px;
+  z-index: 2;
+}
+/* line 258, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #sku_input_container {
+  z-index: 1;
+}
+/* line 260, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #sku_input {
+  background-color: #80477d;
+  border: 3px solid #773973;
+  border-top: none;
+  color: white;
+  padding: 5px;
+  height: 45px;
+  width: 100%;
+  font-size: 190%;
+  font-weight: bolder;
+  text-align: center;
+  -webkit-border-bottom-left-radius: 8px;
+  -webkit-border-bottom-right-radius: 8px;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #80477d), color-stop(0.9, #773973));
+}
+/* line 275, ../../app/assets/stylesheets/pos.sass */
+#pos_container #control_panel #sku_input:focus {
+  outline: none;
+}
+/* line 277, ../../app/assets/stylesheets/pos.sass */
+#pos_container #pos_popup {
+  position: absolute;
+  border: 1px solid white;
+  background-color: #0e1d25;
+  border-bottom: none;
+}
+/* line 282, ../../app/assets/stylesheets/pos.sass */
+#pos_container #pos_popup .inner-div {
+  padding: 10px;
+}
+/* line 284, ../../app/assets/stylesheets/pos.sass */
+#pos_container #pos_popup .inner-div .button {
+  display: inline-block;
+  background-color: #80477d;
+  color: white;
+  padding: 5px;
+  font-size: 180%;
+  text-align: center;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 1%;
+  cursor: pointer;
+  -webkit-border-radius: 4px;
+}
+
+/* line 297, ../../app/assets/stylesheets/pos.sass */
+div.options-row {
+  margin: 15px;
+}
+/* line 299, ../../app/assets/stylesheets/pos.sass */
+div.options-row div.option-name {
+  display: inline-block;
+  margin-right: 10px;
+  background-color: #80477d;
+  border: 3px solid #773973;
+  border-left: none;
+  border-top: none;
+  text-align: center;
+  font-size: 110%;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  -webkit-border-radius: 4px;
+}
+/* line 312, ../../app/assets/stylesheets/pos.sass */
+div.options-row div.option-input {
+  display: inline-block;
+  textarea-width: 95%;
+}
+/* line 314, ../../app/assets/stylesheets/pos.sass */
+div.options-row div.option-input input,
+div.options-row div.option-input textarea {
+  position: relative;
+  top: -2px;
+  background-color: #80477d;
+  color: white;
+  padding: 6px;
+  font-size: 110%;
+  font-weight: bolder;
+  text-align: center;
+  border: 3px solid #773973;
+  -webkit-border-radius: 6px;
+  border-left: none;
+  border-top: none;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #80477d), color-stop(0.9, #773973));
+}
+/* line 329, ../../app/assets/stylesheets/pos.sass */
+div.options-row div.option-input input:focus,
+div.options-row div.option-input textarea:focus {
+  outline: none;
+}
+
+/* line 334, ../../app/assets/stylesheets/pos.sass */
+div.discount-result {
+  text-align: right;
+  background-color: #80477d;
+  font-size: 110%;
+  width: 60%;
+  color: white;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  -webkit-border-radius: 4px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* line 348, ../../app/assets/stylesheets/pos.sass */
+div.discount-result-perc {
+  text-align: right;
+  font-size: 110%;
+  color: white;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  -webkit-border-radius: 4px;
+  display: inline-block;
+}
